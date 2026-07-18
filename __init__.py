@@ -1,4 +1,4 @@
-from config import names
+from .config import names
 from pathlib import Path
 from typing import Any
 import numpy as np
