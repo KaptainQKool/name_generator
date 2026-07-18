@@ -18,6 +18,6 @@ Args:<br>
 `config`: If you want to customize letter frequencies and word counts. Defaults to the config specified in `config.py`.<br>
 `save_output`: Whether to save the output to `output/names.txt`.<br>
 `print_output`: Whether to print the output.<br>
-
 <br>
-<bold>Disclaimer</bold>: Good results not guaranteed. If you're using this to actually name something, you'll probably want to generate a couple thousand words at a time and cherry-pick the good ones.
+
+**Disclaimer:** Good results not guaranteed. If you're using this to actually name something, you'll probably want to generate a couple thousand words at a time and cherry-pick the good ones.
