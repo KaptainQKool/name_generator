@@ -20,4 +20,4 @@ Args:<br>
 `print_output`: Whether to print the output.<br>
 
 <br>
-**Disclaimer**: Good results not guaranteed. If you're using this to actually name something, you'll probably want to generate a couple thousand words at a time and cherry-pick the good ones.
+<bold>Disclaimer</bold>: Good results not guaranteed. If you're using this to actually name something, you'll probably want to generate a couple thousand words at a time and cherry-pick the good ones.
